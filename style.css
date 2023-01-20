@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  background-color:pink;
+  color: red;
+
+}
+
+.button1{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  color:black;
+  background-color:greenyellow;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  
+}
+
+.button2{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  color:black;
+  background-color:palevioletred;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  
+}
+
+.button3{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  color:black;
+  background-color:red;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  
+}
+.button4{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  color:black;
+  background-color:gold;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  
+}
+.button5{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  color:black;
+  background-color:slateblue;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  
+}
+.button6{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  color:black;
+  background-color:aquamarine;
+  font-weight: bolder;
+  font-size: 1.5rem;
+  
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    font-weight: 1.5rem;
+}
+.p {
+    font-size: 1;
+
+}
